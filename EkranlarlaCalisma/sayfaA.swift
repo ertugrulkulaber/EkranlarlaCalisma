@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  sayfaA.swift
 //  EkranlarlaCalisma
 //
 //  Created by Ertuğrul Kulaber on 26.10.2021.
@@ -7,12 +7,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class sayfaA: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.navigationItem.hidesBackButton = true
-    }
-  }
-    
 
+        // Do any additional setup after loading the view.
+    }
+
+
+}
